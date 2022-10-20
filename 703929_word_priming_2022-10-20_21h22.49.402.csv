@@ -1,0 +1,11 @@
+﻿study_word,test,textbox.text,,,,,
+np,_o_s_,house,,,,,
+np,_ea_o_,,,,,,
+p,_ia_n_,piano,,,,no of words recognized,proportion
+np,c_m_r_,camera,,,proportion of hit from study list,5,1
+p,_a_e,vase,,,proportion of hit from nonprimed words,3,0.6
+np,o_a_n_e,orange,,,,,
+p,c_s_h_o_n,cushion,,,prime score,,0.4
+p,t_g_r,tiger,,,,,
+p,_oo_,book,,,,,
+np,_p_a_d_,,,,,,
